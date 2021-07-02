@@ -1,0 +1,50 @@
+/* VARIABLES*/
+/* NAVIGATION*/
+#nav a {
+  background-color: lightblue;
+  text-align: center;
+}
+
+#citation {
+    font-size: 11px;
+    color: #104740;
+}
+
+/* ALL PAGES*/
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: lightpink;
+  margin: 10px;
+  border: 10px;
+  padding: 10px;
+}
+
+img {
+  background-color: lightblue;
+  margin: 10px;
+  padding: 10px;
+}
+
+.quote-text {
+    font-style: italic;
+    color: #382f87;
+}
+
+/*INDEX*/
+#intro {
+  align: center;
+}
+
+.textwrapper {
+    border:10px solid #999999;
+    margin:10px 0;
+    padding:10px;
+}
+
+body {
+    background-color: lightpink;
+}
+
+/*# sourceMappingURL=stylesheet.css.map */
